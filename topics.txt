@@ -1,0 +1,16 @@
+- fix name, description in index with data
+
+- include global bootstrap css
+- include main css
+
+- create a button
+- v-show/hide logo with button
+
+- create component (color block.vue)
+- put css in main.scss
+- create a new component css (block.scss)
+- import scss to component
+
+- create a new button (add)
+- create method (add component)
+-
